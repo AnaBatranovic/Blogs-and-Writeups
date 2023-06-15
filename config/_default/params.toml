@@ -1,7 +1,7 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Ana Batranović"
+title = "AquiloSec"
 titleSeparator = "-"
 titleAddition = "Blogs & Writeups"
 description = "This is where I publish my blogs and writeups. </br> I also keep a collection of various lists and projects."
@@ -12,8 +12,8 @@ description = "This is where I publish my blogs and writeups. </br> I also keep 
 ## Open Graph
 images = ["doks.png"]
 ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
-titleHome = "Ana Batranović"
+domainTLD = "blog.aquilosec.com"
+titleHome = "AquiloSec"
 
 ## Twitter Cards
 twitterSite = "@getdoks"
