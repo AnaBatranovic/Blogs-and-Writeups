@@ -12,7 +12,7 @@ description = "This is where I publish my blogs and writeups. </br> I also keep 
 ## Open Graph
 images = ["doks.png"]
 ogLocale = "en_US"
-domainTLD = "blog.aquilosec.com"
+domainTLD = "doks.netlify.app"
 titleHome = "AquiloSec"
 
 ## Twitter Cards
