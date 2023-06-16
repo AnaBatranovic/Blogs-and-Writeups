@@ -36,7 +36,7 @@ This gate is also dedicated to all the stairs in my life. Again, I feel like thi
 
 It's a bit disheartening, but in my opinion, this is the biggest obstacle disabled people face - navigating a system not built for them and, in the context of job hunting, competing in that system. Something as simple as going to a conference and networking might be derailed because of insurance issues. This might explain the intense willpower of disabled people, it's ingrained in many to fight very very hard for what they want, and I see this as our greatest strength. System issues are also the hardest obstacle to fix, systemic change is a long and arduous process. 
 
-The good news is: by fighting the system, we can change it for the better.
+The good news: by fighting the system, we can change it for the better.
 
 ### GATE 02: SOCIAL ABLEISM
 
@@ -63,8 +63,7 @@ Something like this would not read well in a screenreader - and I apologise to a
  / ,< /  __/ /  / /_/ / /  / /_/ / /_/  __/
 /_/|_|\___/_/  /_.___/_/   \__,_/\__/\___/
 ```
-
-(note: this kerbrute logo shows up at the beginning of every kerbrute command, and as far as I know cannot be disabled.)
+note: this kerbrute logo shows up at the beginning of every kerbrute command, and as far as I know cannot be disabled.
 
 Similarly, challenges that involve something like steganography are inherently inaccessible. Unless you have a very, very good reason for a challenge that involves images, best to avoid making them the crux of the challenge. For example, I think reconstructing a PNG is reasonable, but I think challenges where you have to look through footage for a frame that has the flag in the very corner, are not.
 
