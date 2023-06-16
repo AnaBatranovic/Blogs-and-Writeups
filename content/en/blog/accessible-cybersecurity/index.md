@@ -105,4 +105,5 @@ This article was originally written for an [inclusivity panel at Athen’s 2023 
 If you have anything to add / want to contact me (i’d love to chat more about this!), you can find me at ana.batranovic@gmail.com, or if you want to buy me a coffee (i don’t like coffee, so it will actually be tea), I have a Ko-Fi which you can find [here](https://ko-fi.com/aquilosec). I’m definitely hoping to write more disability-related content, as well as more technical red-team stuff, so check back soon! 🙂 
 
 Thanks for reading - till next time! ♿
+
 Ana
