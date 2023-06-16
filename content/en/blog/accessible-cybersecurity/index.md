@@ -100,7 +100,7 @@ Think about the ways people interact with your product. Consider what the option
 
 ## ADDENDUM
 
-This article was originally written for an [inclusivity panel at Athen’s 2023 Bsides](https://www.bsidesath.gr/index.php). I wanted to share some thoughts about disability in cybersec. I hope you found it interesting! 
+This article was originally written for an [inclusivity panel at Athen’s 2023 BSides](https://www.bsidesath.gr/index.php). I wanted to share some thoughts about disability in cybersec. I hope you found it interesting! 
 
 If you have anything to add / want to contact me (i’d love to chat more about this!), you can find me at ana.batranovic@gmail.com, or if you want to buy me a coffee (i don’t like coffee, so it will actually be tea), I have a Ko-Fi which you can find [here](https://ko-fi.com/aquilosec). I’m definitely hoping to write more disability-related content, as well as more technical red-team stuff, so check back soon! 🙂 
 
