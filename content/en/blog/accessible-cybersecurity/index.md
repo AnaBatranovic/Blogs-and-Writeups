@@ -44,7 +44,7 @@ I say “social ableism” instead of just “ableism” to distinguish it from 
 
 Setting reasonable expectations (no "grinding") can ensure that everyone can stay on track, at their own pace. The tech industry is guilty of this, with employees often being forced to work overtime. This is more so a consequence of capitalism than anything else, but I do think it can be minimised if everyone does their best to do so.
 
-The most important thing to keep in mind here is communication and listening. Talk to a disabled person, check your assumptions (this will tie back to gate 5), and if a disabled person calls out something you said or asks for a change, consider it.
+The most important thing to keep in mind here is communication and listening. Talk to a disabled person, check your assumptions (this will tie back to gate 4), and if a disabled person calls out something you said or asks for a change, consider it.
 
 ### GATE 03: INACCESSIBLE TOOLS / CHALLENGES
 
