@@ -2,8 +2,8 @@
 title: "Accessible Cybersecurity"
 description: "Let's examine why there are so few disabled people in cybersecurity."
 lead: "Where are the disabled people?"
-date: 2020-11-04T09:19:42+01:00
-lastmod: 2020-11-04T09:19:42+01:00
+date: 2023-06-16T09:19:42+01:00
+lastmod: 2023-06-16T09:19:42+01:00
 draft: false
 weight: 50
 images: ["accessible-cybersecurity.png"]
