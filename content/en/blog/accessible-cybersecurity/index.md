@@ -7,7 +7,7 @@ lastmod: 2023-06-23T09:19:42+01:00
 draft: false
 weight: 50
 images: ["accessible-cybersecurity.png"]
-contributors: ["Ana Batranović"]
+contributors: []
 ---
 
 I've been in tech spaces for a few years now, mostly cybersecurity spaces, and more often than not I stick out like a small car in a sea of two-legged mammals. This is because, usually, I am one of very few femme-presenting people, and always the only disabled person in the room. You would think an industry such as tech, where it’s common to work from home in perfect individually-configured conditions, would be ushering in hoards of disabled people. All we hear about is the lack of people in cybersecurity roles, it would make sense to tap into the group of people who are desperately seeking employment. This is not the case, as we can see if we look at the group photos of any conference ever. 
