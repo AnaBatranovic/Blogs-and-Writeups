@@ -6,7 +6,7 @@ date: 2023-06-23T09:19:42+01:00
 lastmod: 2023-06-23T09:19:42+01:00
 draft: false
 weight: 50
-images: ["accessible-cybersecurity.png"]
+avatar: "accessible-cybersecurity.png"
 contributors: ["Ana Batranović"]
 ---
 
